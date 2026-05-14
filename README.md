@@ -2,11 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like backend development, clean architecture and practical software engineering.\
-☕ &nbsp;My main stack is Java, Spring Boot, PostgreSQL and Docker.\
-🔗 &nbsp;I work with REST API, gRPC, Protocol Buffers and database-driven applications.\
-🧩 &nbsp;I have experience with pet projects, backend systems and open-source contributions.\
-📚 &nbsp;Currently improving my backend engineering skills and development practices.
+💡 &nbsp;I like to explore backend development and build practical software solutions.\
+☕ &nbsp;My main stack is Java, Spring Boot, PostgreSQL, Docker, REST API and gRPC.\
+🧩 &nbsp;I work on pet projects and contribute to open-source projects.\
+🚀 &nbsp;In my free time, I keep learning new technologies and improving my projects.\
+📄 &nbsp;Please, have a look at my [resume](resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ---
 ### 🛠 Tech Stack
@@ -31,14 +31,17 @@
 
 <p align="center">
   <a href="https://github.com/aligator51">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aligator51&show_icons=true&include_all_commits=true&count_private=true&bg_color=fafaff&title_color=5E81AC&text_color=3B4252&icon_color=81A1C1&border_color=EAF4F4"/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aligator51&layout=compact&langs_count=8&bg_color=fafaff&title_color=5E81AC&text_color=3B4252&border_color=EAF4F4"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aligator51&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=5E81AC&text_color=3B4252&icon_color=81A1C1&border_color=EAF4F4"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aligator51&layout=compact&langs_count=8&bg_color=ffffff&title_color=5E81AC&text_color=3B4252&border_color=EAF4F4"/>
   </a>
 </p>
 
 ---
 ### 🤝🏻 Contacts
 
+<p>
+Feel free to contact me for backend development, open-source projects or collaboration.
+</p>
 <p>
 <a href="mailto:bubekov.work@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/azorysdestihie"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
