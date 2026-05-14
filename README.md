@@ -1,16 +1,15 @@
 ![Header](header.png)
 
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 &nbsp;About Me
 
-💡 I like backend development, clean architecture and practical software engineering.\
-☕ My main stack is Java, Spring Boot, PostgreSQL and Docker.\
-🔗 I work with REST API, gRPC, Protocol Buffers and database-driven applications.\
-🛠 I have experience with pet projects, backend systems and open-source contributions.\
-📚 Currently improving my backend engineering skills and development practices.
+💡 &nbsp;I like backend development, clean architecture and practical software engineering.\
+☕ &nbsp;My main stack is Java, Spring Boot, PostgreSQL and Docker.\
+🔗 &nbsp;I work with REST API, gRPC, Protocol Buffers and database-driven applications.\
+🧩 &nbsp;I have experience with pet projects, backend systems and open-source contributions.\
+📚 &nbsp;Currently improving my backend engineering skills and development practices.
 
 ---
-
-### 🛠 Tech Stackк
+### 🛠 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/-Java-FFF3D6?style=flat-square&logo=openjdk&logoColor=F89820"/>
@@ -28,7 +27,6 @@
 </p>
 
 ---
-
 ### ⚙️ GitHub Analytics
 
 <p align="center">
@@ -39,7 +37,6 @@
 </p>
 
 ---
-
 ### 🤝🏻 Contacts
 
 <p>
